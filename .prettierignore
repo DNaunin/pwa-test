@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+/storybook-static
+
+# pwa
+**/public/workbox-*.js*
+**/public/worker-*.js*
+**/public/sw.js*
